@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>effective.java.3e</groupId>
-    <artifactId>java</artifactId>
+    <artifactId>effective-java</artifactId>
     <version>${version}</version>
     <packaging>jar</packaging>
 
